@@ -1,5 +1,5 @@
 # ecommerce website
-# [link](https://ymhaah.github.io/Nike-store/](https://ymhaah.github.io/ecommerce-website/)
+# [link](https://ymhaah.github.io/ecommerce-website/)
 ## Table of contents
 
 -   [Overview](#overview)
@@ -21,8 +21,8 @@ An example of a ecommerce website
 
 ### Links
 
--   Icon website: [fontawesome](https://www.svgrepo.com/](https://fontawesome.com/)
--   Live Site URL: [link](https://ymhaah.github.io/Nike-store/](https://ymhaah.github.io/Nike-store/](https://ymhaah.github.io/ecommerce-website/)
+-   Icon website: [fontawesome](https://fontawesome.com/)
+-   Live Site URL: [link](https://ymhaah.github.io/ecommerce-website/)
 
 ## My process
 
