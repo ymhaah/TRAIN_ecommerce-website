@@ -1,5 +1,10 @@
 # ecommerce website
-# [link](https://ymhaah.github.io/ecommerce-website/)
+> Started at:  May 25, 2022
+
+## Project Description
+
+This is a landing page for an e-commerce website designed to showcase a mock project for a custom Nike shoe store. The goal of this project is to create a visually appealing and responsive landing page that highlights the concept of modern custom-designed Nike shoes. The page includes interactive elements and modern UI/UX design principles.
+
 ## Table of contents
 
 -   [Overview](#overview)
@@ -11,9 +16,6 @@
     -   [Continued development](#continued-development)
 -   [Author](#author)
 
-## Overview
-
-An example of a ecommerce website
 
 ### Screenshot
 
@@ -22,7 +24,7 @@ An example of a ecommerce website
 ### Links
 
 -   Icon website: [fontawesome](https://fontawesome.com/)
--   Live Site URL: [link](https://ymhaah.github.io/ecommerce-website/)
+-   Live Site URL: [link](https://ymhaah.github.io/TRAIN_ecommerce-website/)
 
 ## My process
 
